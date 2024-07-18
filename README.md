@@ -1,10 +1,15 @@
-### Hi there 👋, Lahiru Kariyakaranage
-#### Networking and Development
 ![Networking and Development](https://github.com/Lahiru-S9/Lahiru-S9/blob/main/Designer%20(1).png)
 
-I'm Lahiru from Sri Lanka, and I'm doing a computer science degree. I really enjoy learning languages and frameworks like React and Kotlin. I'm also interested about networking. You can check out my linkedin at www.linkedin.com/in/lahiru-sandaruwan-32aa96244 .
+# Lahiru Kariyakaranage
+I'm Lahiru from Sri Lanka, and I'm doing a computer science degree. I really enjoy learning languages and frameworks like React and Kotlin. 
+I'm also interested about networking. You can check out my linkedin at www.linkedin.com/in/lahiru-sandaruwan-32aa96244 .
 
-Skills: REACT / JS / HTML / CSS
+##skills and Experience
+* ⚛️ React
+* 📱 Kotlin
+* 💻 HTML, CSS, JS
+
+
 
 - 🔭 I’m currently working on this page. 
 
