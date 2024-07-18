@@ -1,6 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Lahiru Kariyakaranage
+#### Networking and Development
+![Networking and Development](https://drive.google.com/thumbnail?id=1812_u-msxYwtEclIoFrGVEFBaA_qA44t)
 
-I'm Lahiru from Sri Lanka, and I'm doing a computer science degree. I really enjoy learning languages and frameworks like React and Kotlin.
-I'm also interested about networking. You can check out my linkedin at www.linkedin.com/in/lahiru-sandaruwan-32aa96244 .
+I'm Lahiru from Sri Lanka, and I'm doing a computer science degree. I really enjoy learning languages and frameworks like React and Kotlin. I'm also interested about networking. You can check out my linkedin at www.linkedin.com/in/lahiru-sandaruwan-32aa96244 .
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lahiru-S9)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lahiru-S9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/lahiru2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/lahiru-sandaruwan-32aa96244/)  
+
